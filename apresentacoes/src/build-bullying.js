@@ -17,10 +17,10 @@ const THEME = {
   headFontFace: "Cambria",
   bodyFontFace: "Calibri",
   colors: {
-    dk1: "0B172B", lt1: "FFFFFF", dk2: "3C4A60", lt2: "F4EDE3",
-    accent1: "A67C52", accent2: "E3CFB3", accent3: "C4A07A",
-    accent4: "24406B", accent5: "16294A", accent6: "7C8CA3",
-    hlink: "A67C52", folHlink: "3C4A60",
+    dk1: "0F1B3D", lt1: "FFFFFF", dk2: "44506E", lt2: "F3F6FB",
+    accent1: "FF5E5B", accent2: "19D3C5", accent3: "FFB627",
+    accent4: "7B61FF", accent5: "1A2A5C", accent6: "FF4D9D",
+    hlink: "19D3C5", folHlink: "7B61FF",
   },
 };
 
@@ -148,7 +148,7 @@ async function png(svgStr, scale = 2) {
 // ---------- roteiro ----------
 const ROTEIRO = [
   { t: "Capa", min: "0:30", n: "Boa noite a todos, e obrigado pela presença. Eu sou o Dr. Edson Barroso, trabalho com saúde mental de adultos e de crianças. Hoje a nossa conversa não é só sobre o problema. É sobre o que podemos fazer: prevenir, cuidar e ajudar. Com os nossos filhos, com os nossos profissionais e com o ambiente em que todos vivem e convivem." },
-  { t: "Gancho", min: "1:00", n: "Quantas vezes vocês já ouviram, ou até já disseram: 'é só brincadeira'? Pausa. Essa frase é a desculpa que mais protege o bullying. Olhem esta cadeira vazia sob a luz, e a mochila encostada na parede: é assim que muitas crianças se sentem no recreio, sozinhas, mesmo cercadas de gente, e é assim que muitos profissionais se sentem sem saber o que fazer. Meu objetivo nestes quinze minutos é simples: que cada um aqui saia com uma atitude prática. Porque toda criança tem o direito de ir à escola sem medo." },
+  { t: "Gancho", min: "1:00", n: "Quantas vezes vocês já ouviram, ou até já disseram: 'é só brincadeira'? Pausa. Essa frase é a desculpa que mais protege o bullying. Olhem esta carteira vazia, num canto escuro, com um bilhete amassado em cima: é assim que muitas crianças se sentem na sala de aula, sozinhas, mesmo cercadas de gente, e é assim que muitos profissionais se sentem sem saber o que fazer. Meu objetivo nestes quinze minutos é simples: que cada um aqui saia com uma atitude prática. Porque toda criança tem o direito de ir à escola sem medo." },
   { t: "O que é e como aparece", min: "1:15", n: "Vamos usar a palavra certa, rapidamente. Bullying não é qualquer briga. Tem três marcas, juntas: é intencional, existe a vontade de ferir; é repetido, não é um dia ruim, é rotina; e é desigual, quem agride tem mais poder, seja pela força, pela popularidade ou pelo grupo. Aparece de quatro formas: física, verbal, social, que é excluir e espalhar boato, e virtual. A virtual é a mais traiçoeira: entra em casa pelo celular, a qualquer hora. Resumindo: briga entre iguais é conflito. Bullying é violência." },
   { t: "Ninguém sai ileso", min: "1:30", n: "Aqui entra a saúde mental. O bullying adoece, e não só a vítima. Quem sofre apresenta mais ansiedade, mais tristeza e depressão, isolamento e queda na escola. Quem pratica também apresenta sofrimento psíquico e comportamentos de risco: isso não é desculpa, é alerta, essa criança também precisa de ajuda. E quem assiste também é atingido, porque aprende que aquilo é normal. Eu atendo crianças e adolescentes e preciso ser direto: não é frescura, é sofrimento real. Em casos graves existe risco de autolesão e de pensamentos suicidas. Por isso, a regra é nunca minimizar." },
   { t: "Sinais de alerta", min: "1:00", n: "Quem sofre raramente chega e conta. Então o comportamento avisa antes da palavra. Atenção para: não quer mais ir à escola; dor de cabeça ou de barriga sem causa clara; mudança de humor, de sono ou de apetite; afastamento dos amigos; notas que caem de repente; pertences 'perdidos' ou quebrados. Nenhum sinal sozinho prova nada, mas todos pedem uma conversa. Pergunte com calma: 'Como estão as coisas na escola? Alguém tem te incomodado?'. Isso vale para pais e para professores." },
@@ -157,27 +157,34 @@ const ROTEIRO = [
   { t: "Filhos: se acontecer, ajude", min: "1:15", n: "Se acontecer, o que fazer? Escute sem julgar e sem dizer 'isso passa'. Acredite: o que ela sente é real, mesmo que pareça pequeno. Registre os fatos, datas, prints, nomes, e procure a escola por escrito, com calma e firmeza. E procure um profissional de saúde mental se a tristeza, a ansiedade, o isolamento ou a recusa de ir à escola persistirem. Não esperem 'passar sozinho'. Evitem mandar revidar e evitem confrontar sozinhos a família do outro. A criança precisa sentir que está cercada de apoio: família, escola e profissional." },
   { t: "Profissionais: cuidar de quem cuida", min: "1:30", n: "Agora, a frente que quase ninguém lembra: os nossos profissionais. Professores e equipe escolar são a linha de frente. Estudos sobre a percepção docente mostram um desafio recorrente: falta de formação para reconhecer o problema e saber agir. Então, primeiro: formação continuada. Segundo: um protocolo claro, saber exatamente o que fazer e com quem falar, tira o peso da improvisação. Terceiro: espaço de escuta e apoio psicológico, com acesso a psicólogo escolar e à rede de saúde. E quarto: cuidar da própria saúde mental, porque sobrecarga e pressão adoecem. Professor acolhido acolhe melhor." },
   { t: "Escola: agir na hora", min: "1:15", n: "Quando acontece, a escola precisa agir na hora e com método. Interromper a situação já é uma mensagem; o silêncio também ensina. Proteger quem sofre sem expor, e nunca punir quem teve coragem de contar. Responsabilizar quem agride com orientação e consequência clara, sem humilhação. E envolver as famílias e o apoio psicológico, porque bullying não se resolve só com punição. E é dever legal: a Lei 13.185, de 2015, obriga a escola a ter medidas de prevenção e combate, e a Lei 14.811, de 2024, passou a tratar bullying e cyberbullying como crime. [Conferir o texto das leis antes da palestra.]" },
-  { t: "Ambiente: clima que protege", min: "1:30", n: "Terceira frente: o ambiente. Um clima escolar que protege tem quatro características. Acolhimento e pertencimento: todo aluno precisa se sentir parte. Regras claras, justas e iguais para todos. Atenção aos espaços de risco: recreio, banheiros, corredores, transporte e os grupos de mensagem. E programas de convivência e de habilidades sociais, trabalhados o ano inteiro, não só quando acontece. A pesquisa brasileira sobre psicologia escolar mostra que intervenções em habilidades sociais ajudam. Prevenção contínua reduz danos e permite identificar cedo. Vejam esta roda de cadeiras: um espaço para conversar, com cores, plantas e luz. É assim que um ambiente acolhe." },
+  { t: "Ambiente: clima que protege", min: "1:30", n: "Terceira frente: o ambiente. Um clima escolar que protege tem quatro características. Acolhimento e pertencimento: todo aluno precisa se sentir parte. Regras claras, justas e iguais para todos. Atenção aos espaços de risco: recreio, banheiros, corredores, transporte e os grupos de mensagem. E programas de convivência e de habilidades sociais, trabalhados o ano inteiro, não só quando acontece. A pesquisa brasileira sobre psicologia escolar mostra que intervenções em habilidades sociais ajudam. Prevenção contínua reduz danos e permite identificar cedo. Pensem nesta muda na janela da sala: ela cresce onde há luz, cuidado e atenção. A escola também." },
   { t: "Todos nós", min: "1:00", n: "O ambiente também somos nós, e o ambiente também é digital. Quem assiste também decide. Não ria: o riso da plateia alimenta a agressão. Não compartilhe, foto, vídeo e print espalham a dor, mas guarde as provas para denunciar. Apoie quem sofre: sentar junto e chamar para conversar já muda o dia de alguém. E avise um adulto de confiança. Contar não é dedurar, é proteger. Uma atitude pequena muda o jogo." },
   { t: "Fechamento e ajuda", min: "1:00", n: "Para fechar, três verbos: escutar, acolher, agir. E três frentes: nossos filhos, nossos profissionais e o nosso ambiente. Bullying se combate com presença, não com silêncio. Se houver sofrimento intenso, procurem ajuda profissional: o CVV atende pelo 188, 24 horas, de graça; em emergência, SAMU 192; e o Disque 100 recebe denúncias de violência contra crianças e adolescentes. Meu contato está na tela, @dredsonbarroso. Muito obrigado. Fico à disposição para as perguntas." },
 ];
 
 
-// ---------- imagens de referência do usuário (cenas escolares 3D, sem pessoas) ----------
-const IMG = path.join(__dirname, "..", "imagens");
-const SRC = { classe: IMG + "/sala-cadeira-isolada-mochila.webp", mesa: IMG + "/mesa-cadernos-abertos.webp", lista: IMG + "/mural-lista-coracao.webp", corredor: IMG + "/corredor-luz-dourada-vertical.webp", roda: IMG + "/roda-de-cadeiras-coloridas.webp" };
-const svgWrapH = (W, H, defs, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}"><defs>${defs}</defs>${body}</svg>`;
-const scrimLeftH = (a0, endAt) => (W, H) => svgWrapH(W, H, `<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0B172B" stop-opacity="${a0}"/><stop offset="${endAt * 0.65}" stop-color="#0B172B" stop-opacity="${a0 * 0.92}"/><stop offset="${endAt}" stop-color="#0B172B" stop-opacity="0"/><stop offset="1" stop-color="#0B172B" stop-opacity="0"/></linearGradient>`, `<rect width="${W}" height="${H}" fill="url(#g)"/>`);
-async function crop(key, c, wIn, hIn, o = {}) {
-  const dpi = o.dpi || 150;
+// ---------- imagens super-realistas geradas por IA (sem pessoas) ----------
+const AI = path.join(__dirname, "..", "imagens", "ia");
+const F = (n) => path.join(AI, n + ".webp");
+const svgWrapI = (W, H, defs, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}"><defs>${defs}</defs>${body}</svg>`;
+const scrimLeftI = (a0, endAt) => (W, H) => svgWrapI(W, H, `<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0F1B3D" stop-opacity="${a0}"/><stop offset="${endAt * 0.6}" stop-color="#0F1B3D" stop-opacity="${a0 * 0.85}"/><stop offset="${endAt}" stop-color="#0F1B3D" stop-opacity="0"/><stop offset="1" stop-color="#0F1B3D" stop-opacity="0"/></linearGradient>`, `<rect width="${W}" height="${H}" fill="url(#g)"/>`);
+async function pic(file, wIn, hIn, o = {}) {
+  const dpi = o.dpi || 140;
   const W = Math.round(wIn * dpi), H = Math.round(hIn * dpi);
-  let buf = await sharp(SRC[key]).extract({ left: c[0], top: c[1], width: c[2], height: c[3] }).resize(W, H, { kernel: "lanczos3" }).sharpen({ sigma: 0.7 }).modulate({ saturation: o.sat || 1.04 }).toBuffer();
+  let buf = await sharp(file).resize(W, H, { fit: "cover", position: o.pos || "centre", kernel: "lanczos3" }).modulate({ saturation: o.sat || 1.06 }).toBuffer();
   if (o.scrim) buf = await sharp(buf).composite([{ input: Buffer.from(o.scrim(W, H)), top: 0, left: 0 }]).toBuffer();
   const out = await sharp(buf).jpeg({ quality: 90 }).toBuffer();
   return "image/jpeg;base64," + out.toString("base64");
 }
+async function makeBg() { // fundo escuro em degradê índigo → azul profundo
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B1463"/><stop offset="0.55" stop-color="#0F1B3D"/><stop offset="1" stop-color="#0A3050"/></linearGradient><radialGradient id="r" cx="0.1" cy="0.1" r="0.7"><stop offset="0" stop-color="#7B61FF" stop-opacity="0.28"/><stop offset="1" stop-color="#7B61FF" stop-opacity="0"/></radialGradient></defs><rect width="1920" height="1080" fill="url(#g)"/><rect width="1920" height="1080" fill="url(#r)"/></svg>`;
+  const p = path.join(A, "bg_indigo.png");
+  await sharp(Buffer.from(svg)).png().toFile(p);
+  return p;
+}
 
 (async () => {
+  const BG = await makeBg();
   const pres = new pptxgen();
   pres.layout = "LAYOUT_WIDE"; // 13.333 x 7.5
   pres.theme = { headFontFace: THEME.headFontFace, bodyFontFace: THEME.bodyFontFace };
@@ -189,32 +196,34 @@ async function crop(key, c, wIn, hIn, o = {}) {
   const HEAD = THEME.headFontFace, BODY = THEME.bodyFontFace;
   const logoColor = path.join(A, "logo_color_h.png"), logoDark = path.join(A, "logo_dark_h.png");
   const LW = 1.7, LHc = LW * 541 / 1848, LHd = LW * 545 / 1848, LY = 6.78;
-  const PX = 6.2, PW = 13.333 - 6.2; // painel da foto (direita)
-  const AR = PW / 7.5;
+  const PX = 6.2, PW = 13.333 - 6.2;
+  const DOTS = [C.accent1, C.accent2, C.accent3, C.accent4];
 
   const titlePh = (w, size, color) => ({ placeholder: { options: { name: "title", type: "title", x: 0.7, y: 0.6, w, h: 1.3, fontFace: HEAD, fontSize: size, bold: true, color, align: "left", valign: "top", margin: 0 }, text: "" } });
+  const bgImg = { image: { path: BG, x: 0, y: 0, w: 13.333, h: 7.5 } };
   pres.defineSlideMaster({ title: "PAINEL_CLARO", objects: [{ image: { path: logoColor, x: 0.7, y: LY, w: LW, h: LHc } }, titlePh(5.2, 28, C.text1)] });
-  pres.defineSlideMaster({ title: "PAINEL_ESCURO", objects: [{ rect: { x: 0, y: 0, w: 13.333, h: 7.5, fill: { color: C.text1 } } }, { image: { path: logoDark, x: 0.7, y: LY, w: LW, h: LHd } }, titlePh(5.2, 28, C.background1)] });
+  pres.defineSlideMaster({ title: "PAINEL_ESCURO", objects: [bgImg, { image: { path: logoDark, x: 0.7, y: LY, w: LW, h: LHd } }, titlePh(5.2, 28, C.background1)] });
   pres.defineSlideMaster({ title: "LARGO", objects: [{ image: { path: logoColor, x: 0.7, y: LY, w: LW, h: LHc } }, titlePh(11.9, 34, C.text1)] });
-  pres.defineSlideMaster({ title: "ESCURO_LIVRE", objects: [{ rect: { x: 0, y: 0, w: 13.333, h: 7.5, fill: { color: C.text1 } } }] });
+  pres.defineSlideMaster({ title: "ESCURO_LIVRE", objects: [bgImg] });
 
   const txt = (s, text, o) => s.addText(text, Object.assign({ fontFace: BODY, margin: 0, isTextBox: true, valign: "top" }, o));
   const img = (s, data, x, y, w, h, alt) => s.addImage({ data, x, y, w, h, altText: alt, objectName: alt });
   const notes = (s, i) => s.addNotes(`(${ROTEIRO[i].min}) ${ROTEIRO[i].n}`);
   const logoD = (s, w = LW, x = 0.7, y = LY) => s.addImage({ path: logoDark, x, y, w, h: w * 545 / 1848, altText: "Logomarca Dr. Edson Barroso", objectName: "Logomarca" });
-  const photoR = async (s, key, c, alt) => img(s, await crop(key, c, PW, 7.5), PX, 0, PW, 7.5, alt);
+  const photoR = async (s, name, alt, o) => img(s, await pic(F(name), PW, 7.5, o), PX, 0, PW, 7.5, alt);
   const msg = (s, t, dark) => txt(s, t, { x: 0.7, y: 1.95, w: 5.2, h: 0.8, fontSize: 17, color: dark ? C.accent2 : C.text2, objectName: "Mensagem" });
   const list = (s, rows, y0, step, dark) => rows.forEach((r, i) => {
     const y = y0 + i * step;
-    txt(s, r[0], { x: 0.7, y, w: 5.2, h: 0.4, fontFace: HEAD, fontSize: 20, bold: true, color: dark ? C.accent3 : C.text1, objectName: "Item " + (i + 1) });
-    txt(s, r[1], { x: 0.7, y: y + 0.4, w: 5.2, h: 0.5, fontSize: 15, color: dark ? C.background1 : C.text2, objectName: "Detalhe " + (i + 1) });
+    s.addShape(pres.shapes.OVAL, { x: 0.7, y: y + 0.1, w: 0.17, h: 0.17, fill: { color: DOTS[i % 4] }, line: { type: "none" }, objectName: "Marcador " + (i + 1) });
+    txt(s, r[0], { x: 1.05, y, w: 4.95, h: 0.4, fontFace: HEAD, fontSize: 19, bold: true, color: dark ? C.accent3 : C.text1, objectName: "Item " + (i + 1) });
+    txt(s, r[1], { x: 1.05, y: y + 0.4, w: 4.95, h: 0.5, fontSize: 15, color: dark ? C.background1 : C.text2, objectName: "Detalhe " + (i + 1) });
   });
 
   // ================= 1. Capa =================
   pres.addSection({ title: "Abertura" });
   {
     const s = pres.addSlide({ masterName: "PAINEL_ESCURO", sectionTitle: "Abertura" });
-    await photoR(s, "roda", [0, 112, 925, 972], "Imagem: sala com porta aberta para o jardim e cadeiras coloridas");
+    await photoR(s, "i01_capa", "Imagem: guarda-chuva vermelho protegendo uma mochila no pátio da escola ao entardecer");
     txt(s, "Bullying e\nsaúde mental\nna escola", { x: 0.7, y: 1.0, w: 5.3, h: 2.2, fontFace: HEAD, fontSize: 40, bold: true, color: C.background1, objectName: "Título" });
     txt(s, "Como prevenir, cuidar e ajudar: nossos filhos, nossos profissionais e o ambiente", { x: 0.7, y: 3.55, w: 5.0, h: 1.6, fontSize: 20, color: C.accent2, objectName: "Subtítulo" });
     txt(s, "@dredsonbarroso", { x: 3.0, y: 6.92, w: 3, h: 0.35, fontSize: 16, color: C.accent3, objectName: "Instagram" });
@@ -224,8 +233,8 @@ async function crop(key, c, wIn, hIn, o = {}) {
   // ================= 2. Gancho =================
   {
     const s = pres.addSlide({ masterName: "ESCURO_LIVRE", sectionTitle: "Abertura" });
-    img(s, await crop("classe", [250, 240, 1198, 674], 13.333, 7.5, { dpi: 140, scrim: scrimLeftH(0.96, 0.66) }), 0, 0, 13.333, 7.5, "Imagem: sala de aula com uma cadeira isolada e uma mochila encostada");
-    txt(s, "“É só\nbrincadeira.”", { x: 0.8, y: 0.9, w: 5.6, h: 2.1, fontFace: HEAD, fontSize: 50, italic: true, color: C.accent2, objectName: "Frase" });
+    img(s, await pic(F("i02_gancho"), 13.333, 7.5, { dpi: 115, scrim: scrimLeftI(0.55, 0.55) }), 0, 0, 13.333, 7.5, "Imagem: carteira escolar vazia com um bilhete amassado sob um feixe de luz");
+    txt(s, "“É só\nbrincadeira.”", { x: 0.8, y: 0.9, w: 5.6, h: 2.1, fontFace: HEAD, fontSize: 50, italic: true, color: C.accent3, objectName: "Frase" });
     txt(s, "Quantas vezes você já ouviu isso?", { x: 0.8, y: 3.3, w: 5.4, h: 0.5, fontSize: 24, color: C.background1, objectName: "Pergunta" });
     txt(s, "Toda criança tem o direito de ir à escola sem medo.", { x: 0.8, y: 4.1, w: 5.2, h: 1.6, fontFace: HEAD, fontSize: 28, bold: true, color: C.background1, objectName: "Mensagem central" });
     logoD(s);
@@ -237,7 +246,7 @@ async function crop(key, c, wIn, hIn, o = {}) {
   {
     const s = pres.addSlide({ masterName: "PAINEL_CLARO", sectionTitle: "Entender" });
     s.addText("Bullying tem três marcas, e todas juntas", { placeholder: "title" });
-    await photoR(s, "lista", [0, 0, 700, 736], "Imagem: mural de recados coloridos");
+    await photoR(s, "i03_xadrez", "Imagem: rei de xadrez dourado dominando peões caídos");
     msg(s, "Briga entre iguais é conflito. Bullying é violência.");
     list(s, [["Intencional", "Há a intenção de ferir, humilhar ou excluir."], ["Repetido", "Não é um dia ruim: é uma rotina que se repete."], ["Desigual", "Quem agride tem mais poder: força, popularidade ou grupo."]], 2.95, 1.1);
     txt(s, "Pode ser física, verbal, social ou virtual.", { x: 0.7, y: 6.3, w: 5.2, h: 0.35, fontSize: 15, bold: true, color: C.accent1, objectName: "Formas" });
@@ -249,9 +258,9 @@ async function crop(key, c, wIn, hIn, o = {}) {
   {
     const s = pres.addSlide({ masterName: "PAINEL_ESCURO", sectionTitle: "Saúde mental" });
     s.addText("Ninguém sai ileso: o bullying adoece", { placeholder: "title" });
-    await photoR(s, "classe", [600, 230, 813, 856], "Imagem: cadeira isolada sob a luz e mochila encostada na parede");
+    await photoR(s, "i04_chuva", "Imagem: janela de sala de aula com chuva e uma folha amassada no parapeito");
     list(s, [["Quem sofre", "Ansiedade, tristeza e depressão, isolamento, queda na escola."], ["Quem pratica", "Sofrimento psíquico e comportamentos de risco. Também precisa de ajuda."], ["Quem assiste", "Também é atingido e aprende que isso é normal."]], 2.0, 1.1, true);
-    txt(s, "Não é frescura. É sofrimento real.", { x: 0.7, y: 5.4, w: 5.3, h: 0.45, fontFace: HEAD, fontSize: 22, italic: true, color: C.accent2, objectName: "Frase de impacto" });
+    txt(s, "Não é frescura. É sofrimento real.", { x: 0.7, y: 5.4, w: 5.3, h: 0.45, fontFace: HEAD, fontSize: 22, italic: true, color: "FF8A87", objectName: "Frase de impacto" });
     txt(s, "Em casos graves, há risco de autolesão e de pensamentos suicidas. Nunca minimize.", { x: 0.7, y: 5.9, w: 5.2, h: 0.7, fontSize: 14, color: C.background1, objectName: "Alerta" });
     notes(s, 3);
   }
@@ -260,11 +269,11 @@ async function crop(key, c, wIn, hIn, o = {}) {
   {
     const s = pres.addSlide({ masterName: "PAINEL_CLARO", sectionTitle: "Saúde mental" });
     s.addText("O comportamento avisa antes da criança contar", { placeholder: "title" });
-    await photoR(s, "mesa", [0, 112, 925, 972], "Imagem: sala com porta aberta e armários amarelos ao fundo");
+    await photoR(s, "i05_celular", "Imagem: celular aceso com várias notificações em um quarto escuro");
     txt(s, "Pais e professores, perguntem com calma: “Como estão as coisas na escola? Alguém tem te incomodado?”", { x: 0.7, y: 1.85, w: 5.2, h: 1.0, fontSize: 16, italic: true, color: C.text2, objectName: "Pergunta modelo" });
     ["Não quer mais ir à escola", "Dor de cabeça ou de barriga sem causa", "Muda de humor, de sono ou de apetite", "Afasta-se dos amigos", "As notas caem de repente", "Pertences “perdidos” ou quebrados"].forEach((t, i) => {
       const y = 3.05 + i * 0.6;
-      txt(s, String(i + 1), { x: 0.7, y, w: 0.5, h: 0.5, fontFace: HEAD, fontSize: 24, bold: true, color: C.accent1, valign: "middle", objectName: "Número " + (i + 1) });
+      txt(s, String(i + 1), { x: 0.7, y, w: 0.5, h: 0.5, fontFace: HEAD, fontSize: 24, bold: true, color: DOTS[i % 4], valign: "middle", objectName: "Número " + (i + 1) });
       txt(s, t, { x: 1.25, y, w: 4.65, h: 0.5, fontSize: 17, color: C.text1, valign: "middle", objectName: "Sinal " + (i + 1) });
     });
     notes(s, 4);
@@ -276,72 +285,68 @@ async function crop(key, c, wIn, hIn, o = {}) {
     const s = pres.addSlide({ masterName: "LARGO", sectionTitle: "O que fazer" });
     s.addText("Três frentes: filhos, profissionais e ambiente", { placeholder: "title" });
     txt(s, "Prevenir, cuidar e ajudar, ao mesmo tempo.", { x: 0.7, y: 1.3, w: 11.9, h: 0.5, fontSize: 20, color: C.text2, objectName: "Mensagem" });
-    const cols = [["mesa", [0, 230, 940, 723], "Nossos filhos", "Fortalecer a saúde mental e o vínculo, e agir cedo."], ["classe", [0, 200, 900, 692], "Nossos profissionais", "Formar, apoiar e dar um protocolo claro a quem educa."], ["roda", [0, 200, 925, 711], "O ambiente", "Acolhimento, regras justas e atenção aos espaços de risco."]];
+    const cols = [["i06a_casa", "Nossos filhos", "Fortalecer a saúde mental e o vínculo, e agir cedo."], ["i06b_professor", "Nossos profissionais", "Formar, apoiar e dar um protocolo claro a quem educa."], ["i06c_patio", "O ambiente", "Acolhimento, regras justas e atenção aos espaços de risco."]];
     for (let i = 0; i < 3; i++) {
       const x = 0.7 + i * 4.15;
-      img(s, await crop(cols[i][0], cols[i][1], 3.9, 3.0), x, 1.95, 3.9, 3.0, "Imagem: " + cols[i][2]);
-      txt(s, cols[i][2], { x, y: 5.12, w: 3.9, h: 0.5, fontFace: HEAD, fontSize: 24, bold: true, color: C.text1, objectName: "Frente " + cols[i][2] });
-      txt(s, cols[i][3], { x, y: 5.68, w: 3.8, h: 0.9, fontSize: 16, color: C.text2, objectName: "Descrição " + cols[i][2] });
+      img(s, await pic(F(cols[i][0]), 3.9, 3.0), x, 1.95, 3.9, 3.0, "Imagem: " + cols[i][1]);
+      s.addShape(pres.shapes.OVAL, { x, y: 5.2, w: 0.17, h: 0.17, fill: { color: DOTS[i] }, line: { type: "none" }, objectName: "Marcador " + cols[i][1] });
+      txt(s, cols[i][1], { x: x + 0.35, y: 5.08, w: 3.5, h: 0.5, fontFace: HEAD, fontSize: 24, bold: true, color: C.text1, objectName: "Frente " + cols[i][1] });
+      txt(s, cols[i][2], { x, y: 5.68, w: 3.8, h: 0.9, fontSize: 16, color: C.text2, objectName: "Descrição " + cols[i][1] });
     }
     notes(s, 5);
   }
 
-  // ---------- slides de ação: painel de texto + imagem grande ----------
-  const acao = async (title, message, key, c, rows, idx, alt) => {
+  // ---------- slides de ação ----------
+  const acao = async (title, message, name, rows, idx, alt) => {
     const s = pres.addSlide({ masterName: "PAINEL_CLARO", sectionTitle: "O que fazer" });
     s.addText(title, { placeholder: "title" });
-    await photoR(s, key, c, alt);
+    await photoR(s, name, alt);
     msg(s, message);
     list(s, rows, 2.95, 0.93);
     notes(s, idx);
   };
-  await acao("Nossos filhos: prevenir começa em casa", "Criança ouvida em casa conta mais cedo quando algo dá errado.", "mesa", [330, 340, 709, 746], [
+  await acao("Nossos filhos: prevenir começa em casa", "Criança ouvida em casa conta mais cedo quando algo dá errado.", "i07_chocolate", [
     ["Converse todos os dias", "Pergunte sobre o dia, não só sobre as notas."],
     ["Cuide do básico", "Sono, alimentação, movimento e tempo para brincar."],
     ["Ensine a pedir ajuda", "“Se algo te machucar, me conte. Eu não vou brigar.”"],
     ["Acompanhe o mundo digital", "Regras de tela e presença, sem espionar."],
-  ], 6, "Imagem: mesa com dois cadernos abertos e um lápis");
-
-  await acao("Nossos filhos: se acontecer, ajude assim", "A criança precisa sentir que está cercada de apoio: família, escola e profissional.", "mesa", [700, 230, 748, 787], [
+  ], 6, "Imagem: duas xícaras de chocolate quente e um caderno aberto numa mesa de cozinha");
+  await acao("Nossos filhos: se acontecer, ajude assim", "A criança precisa sentir que está cercada de apoio: família, escola e profissional.", "i08_farol", [
     ["Escute sem julgar", "Deixe falar até o fim. Evite “isso passa”."],
     ["Acredite e acolha", "O que ela sente é real, mesmo que pareça pequeno."],
     ["Registre e procure a escola", "Datas, prints e nomes, por escrito e com firmeza."],
     ["Procure ajuda profissional", "Se tristeza, ansiedade ou recusa escolar persistirem."],
-  ], 7, "Imagem: cantinho aconchegante com almofadas e livros");
-
-  await acao("Profissionais: quem cuida precisa de cuidado", "Professor acolhido acolhe melhor.", "classe", [0, 139, 900, 947], [
+  ], 7, "Imagem: farol com um feixe de luz atravessando nuvens de tempestade");
+  await acao("Profissionais: quem cuida precisa de cuidado", "Professor acolhido acolhe melhor.", "i09_vela", [
     ["Formação continuada", "Professores relatam dificuldade para reconhecer e agir."],
     ["Protocolo claro", "Saber o que fazer e com quem falar tira o peso."],
     ["Escuta e apoio psicológico", "Psicólogo escolar e acesso à rede de saúde."],
     ["Cuidar da própria saúde mental", "Sobrecarga e pressão adoecem quem educa."],
-  ], 8, "Imagem: sala de aula iluminada com plantas e estante");
-
-  await acao("Na escola: agir na hora e com método", "É dever da escola (Lei 13.185/2015) e bullying é crime (Lei 14.811/2024).", "lista", [170, 190, 851, 895], [
+  ], 8, "Imagem: vela queimando ao lado de uma pilha de cadernos corrigidos");
+  await acao("Na escola: agir na hora e com método", "É dever da escola (Lei 13.185/2015) e bullying é crime (Lei 14.811/2024).", "i10_cartao", [
     ["Interrompa a situação", "O silêncio também ensina."],
     ["Proteja sem expor", "Quem contou não pode ser punido por isso."],
     ["Responsabilize com orientação", "Consequência clara, sem humilhação."],
     ["Envolva famílias e psicólogo", "Bullying não se resolve só com punição."],
-  ], 9, "Imagem: lista de verificação com um coração e uma porta aberta");
-
-  await acao("O ambiente: um clima escolar que protege", "Prevenção contínua reduz danos e identifica o problema cedo.", "roda", [700, 230, 748, 787], [
+  ], 9, "Imagem: cartão vermelho sobre uma carteira escolar");
+  await acao("O ambiente: um clima escolar que protege", "Prevenção contínua reduz danos e identifica o problema cedo.", "i11_muda", [
     ["Acolhimento e pertencimento", "Todo aluno precisa se sentir parte do grupo."],
     ["Regras claras, justas e iguais", "Valem para todos, inclusive para os mais populares."],
     ["Atenção aos espaços de risco", "Recreio, banheiros, transporte e grupos de mensagem."],
     ["Convivência e habilidades sociais", "Trabalhadas o ano todo, não só quando acontece."],
-  ], 10, "Imagem: cadeiras coloridas com cadernos e estante");
-
-  await acao("Todos nós fazemos o ambiente", "Inclusive o digital: o que fazemos online também conta.", "roda", [330, 250, 794, 835], [
+  ], 10, "Imagem: muda de planta crescendo numa janela de sala de aula");
+  await acao("Todos nós fazemos o ambiente", "Inclusive o digital: o que fazemos online também conta.", "i12_puzzle", [
     ["Não ria", "O riso da plateia alimenta a agressão."],
     ["Não compartilhe, guarde as provas", "Print e link ajudam a denunciar; repassar espalha a dor."],
     ["Apoie quem sofre", "Sentar junto e chamar para conversar já muda o dia."],
     ["Avise um adulto de confiança", "Contar não é dedurar: é proteger."],
-  ], 11, "Imagem: roda de cadeiras coloridas ao redor de uma planta");
+  ], 11, "Imagem: quebra-cabeça colorido com a última peça prestes a encaixar");
 
   // ================= 13. Fechamento =================
   pres.addSection({ title: "Encerramento" });
   {
     const s = pres.addSlide({ masterName: "PAINEL_ESCURO", sectionTitle: "Encerramento" });
-    await photoR(s, "corredor", [0, 250, 1086, 1142], "Imagem: corredor da escola com luz dourada e uma mochila no banco");
+    await photoR(s, "i13_barco", "Imagem: barquinho de papel numa poça no pátio da escola ao nascer do sol");
     txt(s, "Escutar.\nAcolher.\nAgir.", { x: 0.7, y: 0.7, w: 5.3, h: 2.0, fontFace: HEAD, fontSize: 40, bold: true, color: C.background1, objectName: "Título" });
     txt(s, "Bullying se combate com presença, não com silêncio.", { x: 0.7, y: 2.9, w: 5.0, h: 0.9, fontSize: 20, color: C.accent2, objectName: "Frase final" });
     txt(s, "Precisa de ajuda agora?", { x: 0.7, y: 4.05, w: 5.2, h: 0.4, fontFace: HEAD, fontSize: 20, bold: true, color: C.accent3, objectName: "Título ajuda" });

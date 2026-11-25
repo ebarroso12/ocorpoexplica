@@ -2,11 +2,10 @@
 
 Código-fonte do deck `../bullying-saude-mental-escola.pptx`.
 
-- `build-bullying.js`: monta os 13 slides e o roteiro de fala, recortando as imagens de `../imagens/` (cenas escolares 3D enviadas pelo usuário).
+- `build-bullying.js`: monta os 13 slides (painel de texto + imagem grande) e o roteiro de fala.
+- `../imagens/ia/`: 15 imagens super-realistas geradas por IA (Figma), sem pessoas, uma por slide.
+- `../imagens/referencia/`: as cenas 3D de referência enviadas pelo usuário (não usadas na versão atual).
 - `assets/`: logos recortadas.
-- `kit.js`: objetos em SVG de uma versão anterior (não usado nesta versão).
-
-Os recortes evitam a plaquinha da logo que vem dentro das imagens (canto superior direito); a logo é colocada pequena no canto inferior esquerdo.
 
 ```bash
 npm install pptxgenjs react react-dom react-icons sharp
