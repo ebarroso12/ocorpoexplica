@@ -30,6 +30,7 @@ Para atualizar a skill, baixe a versão nova do repositório de origem e substit
   - `logo-horizontal-branca.png`: versão toda branca.
 - Paleta da marca: azul-marinho `#0B172B`, dourado `#A67C52`, dourado médio `#C4A07A`, champagne `#E3CFB3`, fundo suave `#F4EDE3`.
 - Estilo: **limpo, moderno e vivo**. Só dois fundos: branco ou azul-marinho. Um título, uma linha de mensagem, no máximo 4 itens e **uma imagem grande por slide**. Sem caixas, linhas divisórias, faixas ou fundos bege (o usuário achou "sujo" e cansativo). Títulos em serifa (Cambria), texto em Calibri; logo **pequena no canto inferior esquerdo**.
-- Imagens: **sem pessoas** (nem fotos reais, nem figuras desenhadas). Usar objetos e metáforas em estilo 3D suave, vivos, no padrão de `apresentacoes/src/kit.js` (coração, guarda-chuva, balões de conversa, lupa, bateria, quebra-cabeça, barco de papel etc.).
+- Imagens (estilo aprovado pelo usuário): **cenas escolares 3D renderizadas, coloridas e acolhedoras, SEM pessoas**: luz quente dourada, plantas, cadeiras, mochila, cadernos, portas abertas, paleta azul-marinho + coral + turquesa + amarelo + lavanda. Pedidos prontos em `apresentacoes/prompts-imagens.md`. Não usar fotos de pessoas, figuras desenhadas simples nem ícones tipo emoji (todos rejeitados).
+- Eu não gero imagens desse nível: pedir ao usuário que envie os arquivos **numa mensagem nova**, não durante o trabalho do Claude (imagens enviadas no meio do trabalho não são salvas como arquivo).
 - Instagram: `@dredsonbarroso`.
 - Não usar o Gamma (o usuário não quer) nem ícones genéricos em círculos como visual principal.
