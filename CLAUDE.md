@@ -21,3 +21,14 @@ Este repositório é um projeto para **criar apresentações** (slides), princip
 
 Para atualizar a skill, baixe a versão nova do repositório de origem e substitua a pasta
 `.claude/skills/slide-design/` (sem copiar o `.git`).
+
+## Identidade visual (Dr. Edson Barroso · Saúde Mental Adulto e Infantil)
+
+- Use **sempre a logomarca** em apresentações. Arquivos em `apresentacoes/logo/`:
+  - `logo-horizontal-colorida.png` e `logo-vertical-colorida.png`: para fundo claro.
+  - `logo-horizontal-fundo-escuro.png` e `logo-vertical-fundo-escuro.png`: para fundo escuro (monograma dourado + texto branco).
+  - `logo-horizontal-branca.png`: versão toda branca.
+- Paleta da marca: azul-marinho `#0B172B`, dourado `#A67C52`, dourado médio `#C4A07A`, champagne `#E3CFB3`, fundo suave `#F4EDE3`.
+- Estilo: moderno, elegante e minimalista; títulos em serifa (Cambria), texto em Calibri; ilustrações vetoriais próprias nas cores da marca; slides de abertura e fechamento em azul-marinho.
+- Instagram: `@dredsonbarroso`.
+- Não usar o Gamma (o usuário não quer) nem ícones genéricos em círculos como visual principal.
