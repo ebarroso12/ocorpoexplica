@@ -8,69 +8,69 @@ Duração total: 15 minutos (13 slides). O roteiro também está nas notas do ap
 |---|---|---|
 | 1 | Capa | 0:30 |
 | 2 | Gancho | 1:00 |
-| 3 | O que é bullying | 1:30 |
-| 4 | As formas | 1:30 |
-| 5 | Quem é afetado | 1:00 |
-| 6 | Impacto na saúde mental | 1:30 |
-| 7 | Sinais de alerta | 1:30 |
-| 8 | A lei | 0:45 |
-| 9 | O que protege | 1:00 |
-| 10 | Pais | 1:15 |
-| 11 | Escola | 1:15 |
-| 12 | Todos nós | 0:45 |
-| 13 | Fechamento e ajuda | 1:30 |
+| 3 | O que é e como aparece | 1:15 |
+| 4 | Ninguém sai ileso | 1:30 |
+| 5 | Sinais de alerta | 1:00 |
+| 6 | Três frentes | 0:45 |
+| 7 | Filhos: prevenir em casa | 1:30 |
+| 8 | Filhos: se acontecer, ajude | 1:15 |
+| 9 | Profissionais: cuidar de quem cuida | 1:30 |
+| 10 | Escola: agir na hora | 1:15 |
+| 11 | Ambiente: clima que protege | 1:30 |
+| 12 | Todos nós | 1:00 |
+| 13 | Fechamento e ajuda | 1:00 |
 
 ---
 
 ## 1. Capa (0:30)
 
-Boa noite a todos, e obrigado pela presença. Eu sou o Dr. Edson Barroso, trabalho com saúde mental de adultos e de crianças. Hoje vou falar de um assunto que está dentro de muitas casas e de muitas salas de aula: o bullying. E vou começar com uma afirmação: bullying não é brincadeira. É uma questão de saúde mental, e a responsabilidade é de todos nós.
+Boa noite a todos, e obrigado pela presença. Eu sou o Dr. Edson Barroso, trabalho com saúde mental de adultos e de crianças. Hoje a nossa conversa não é só sobre o problema. É sobre o que podemos fazer: prevenir, cuidar e ajudar. Com os nossos filhos, com os nossos profissionais e com o ambiente em que todos vivem e convivem.
 
 ## 2. Gancho (1:00)
 
-Quantas vezes vocês já ouviram, ou até já disseram: 'é só brincadeira'? Pausa. Essa frase é a desculpa que mais protege o bullying. Olhem a imagem: um grupo grande, junto, e uma pessoa de fora. É assim que muitas crianças se sentem no recreio. Meu objetivo nestes quinze minutos é simples: que cada um aqui saia sabendo reconhecer, entender e agir. Porque toda criança tem o direito de ir à escola sem medo.
+Quantas vezes vocês já ouviram, ou até já disseram: 'é só brincadeira'? Pausa. Essa frase é a desculpa que mais protege o bullying. Olhem a imagem: um grupo grande, junto, e uma pessoa de fora. É assim que muitas crianças se sentem no recreio, e é assim que muitos profissionais se sentem sem saber o que fazer. Meu objetivo nestes quinze minutos é simples: que cada um aqui saia com uma atitude prática. Porque toda criança tem o direito de ir à escola sem medo.
 
-## 3. O que é bullying (1:30)
+## 3. O que é e como aparece (1:15)
 
-Primeiro, vamos usar a palavra certa. Bullying não é qualquer briga. Tem três marcas, e as três precisam estar juntas. Primeira: é intencional, existe a vontade de ferir, humilhar ou excluir. Segunda: é repetido, não é um dia ruim, é uma rotina, de novo e de novo. Terceira: é desigual, quem agride tem mais poder, seja pela força, pela popularidade ou porque está em grupo. A vítima não consegue se defender sozinha. Por isso, briga entre iguais é conflito. Bullying é violência.
+Vamos usar a palavra certa, rapidamente. Bullying não é qualquer briga. Tem três marcas, juntas: é intencional, existe a vontade de ferir; é repetido, não é um dia ruim, é rotina; e é desigual, quem agride tem mais poder, seja pela força, pela popularidade ou pelo grupo. Aparece de quatro formas: física, verbal, social, que é excluir e espalhar boato, e virtual. A virtual é a mais traiçoeira: entra em casa pelo celular, a qualquer hora. Resumindo: briga entre iguais é conflito. Bullying é violência.
 
-## 4. As formas (1:30)
+## 4. Ninguém sai ileso (1:30)
 
-O bullying tem muitas formas, e quase nenhuma deixa marca visível. Existe a física: empurrão, soco, objeto quebrado. A verbal: apelido, humilhação, ameaça. A social: excluir, isolar, espalhar boato. E a virtual, o cyberbullying. Esta eu quero destacar: ela não termina no portão da escola. Entra em casa pelo celular, a qualquer hora, e o que é postado se espalha e permanece. Para quem sofre, não existe mais lugar seguro.
+Aqui entra a saúde mental. O bullying adoece, e não só a vítima. Quem sofre apresenta mais ansiedade, mais tristeza e depressão, isolamento e queda na escola. Quem pratica também apresenta sofrimento psíquico e comportamentos de risco: isso não é desculpa, é alerta, essa criança também precisa de ajuda. E quem assiste também é atingido, porque aprende que aquilo é normal. Eu atendo crianças e adolescentes e preciso ser direto: não é frescura, é sofrimento real. Em casos graves existe risco de autolesão e de pensamentos suicidas. Por isso, a regra é nunca minimizar.
 
-## 5. Quem é afetado (1:00)
+## 5. Sinais de alerta (1:00)
 
-O bullying não tem só uma vítima. Tem três papéis. Quem sofre carrega a dor, muitas vezes em silêncio, por vergonha ou por medo de piorar. Quem pratica também merece atenção: os estudos associam a agressão a sofrimento psíquico e a comportamentos de risco. Isso não é desculpa, é alerta. E quem assiste também é atingido: quem se cala aprende que aquilo é normal. Resumindo: é um problema do grupo inteiro, não de uma criança só.
+Quem sofre raramente chega e conta. Então o comportamento avisa antes da palavra. Atenção para: não quer mais ir à escola; dor de cabeça ou de barriga sem causa clara; mudança de humor, de sono ou de apetite; afastamento dos amigos; notas que caem de repente; pertences 'perdidos' ou quebrados. Nenhum sinal sozinho prova nada, mas todos pedem uma conversa. Pergunte com calma: 'Como estão as coisas na escola? Alguém tem te incomodado?'. Isso vale para pais e para professores.
 
-## 6. Impacto na saúde mental (1:30)
+## 6. Três frentes (0:45)
 
-Agora, o que o bullying faz por dentro. As pesquisas, no Brasil e fora dele, mostram um padrão: mais sintomas de ansiedade, mais sintomas de depressão, isolamento e queda no rendimento e no interesse pela escola. Em casos graves, aumenta o risco de autolesão e de pensamentos suicidas. Por isso, a regra é: nunca minimizar. Eu atendo crianças e adolescentes e preciso ser direto: não é frescura. É sofrimento real, e quanto mais cedo é reconhecido, menores os danos.
+Agora vamos ao que interessa: o que fazer. Eu organizo em três frentes. Primeira, os nossos filhos: fortalecer a saúde mental e o vínculo, e agir cedo. Segunda, os nossos profissionais: professores e equipe precisam de formação, de apoio e de um protocolo claro. E terceira, o ambiente: um clima escolar de acolhimento, regras justas e atenção aos lugares de risco. Prevenir, cuidar e ajudar, nessas três frentes ao mesmo tempo.
 
-## 7. Sinais de alerta (1:30)
+## 7. Filhos: prevenir em casa (1:30)
 
-Quem sofre raramente chega e conta. Então o comportamento avisa antes da palavra. Atenção para: não quer mais ir à escola; dor de cabeça ou de barriga sem causa clara; mudança de humor, de sono ou de apetite; afastamento dos amigos; notas que caem de repente; pertences 'perdidos' ou quebrados. Nenhum sinal sozinho prova nada, mas todos pedem uma conversa. Pergunte com calma: 'Como estão as coisas na escola? Alguém tem te incomodado?'.
+Prevenção começa em casa e é feita de coisas simples, todos os dias. Converse sobre o dia, não só sobre notas: criança que se sente ouvida conta mais cedo quando algo dá errado. Cuide do básico: sono, alimentação, movimento e tempo para brincar protegem a saúde mental. Ensine empatia e ensine a pedir ajuda: diga com todas as letras, 'se algo te machucar, você pode me contar, e eu não vou brigar com você'. E acompanhe o mundo digital: combine regras de tela e esteja por perto, sem espionar. O vínculo familiar é um dos maiores fatores de proteção que as pesquisas apontam.
 
-## 8. A lei (0:45)
+## 8. Filhos: se acontecer, ajude (1:15)
 
-Muita gente não sabe, mas existe lei. A Lei 13.185, de 2015, criou o Programa de Combate à Intimidação Sistemática, o nome técnico do bullying, e coloca como dever da escola assegurar medidas de conscientização, prevenção e combate. Em 2024, a Lei 14.811 foi além: bullying e cyberbullying passaram a ser tratados como crime. O recado: a sociedade reconheceu que isso é sério. [Conferir o texto das leis e o documento do MEC antes da palestra.]
+Se acontecer, o que fazer? Escute sem julgar e sem dizer 'isso passa'. Acredite: o que ela sente é real, mesmo que pareça pequeno. Registre os fatos, datas, prints, nomes, e procure a escola por escrito, com calma e firmeza. E procure um profissional de saúde mental se a tristeza, a ansiedade, o isolamento ou a recusa de ir à escola persistirem. Não esperem 'passar sozinho'. Evitem mandar revidar e evitem confrontar sozinhos a família do outro. A criança precisa sentir que está cercada de apoio: família, escola e profissional.
 
-## 9. O que protege (1:00)
+## 9. Profissionais: cuidar de quem cuida (1:30)
 
-Agora a parte esperançosa. O que mais protege uma criança é o vínculo. Pensem em círculos ao redor dela: a família, com diálogo e confiança; a escola, com acolhimento e atenção à convivência; e a prevenção, com programas que identificam o problema cedo. As pesquisas mostram que esses fatores reduzem os danos. Quanto mais cedo percebemos, menor o dano. E agora, o que cada um pode fazer.
+Agora, a frente que quase ninguém lembra: os nossos profissionais. Professores e equipe escolar são a linha de frente. Estudos sobre a percepção docente mostram um desafio recorrente: falta de formação para reconhecer o problema e saber agir. Então, primeiro: formação continuada. Segundo: um protocolo claro, saber exatamente o que fazer e com quem falar, tira o peso da improvisação. Terceiro: espaço de escuta e apoio psicológico, com acesso a psicólogo escolar e à rede de saúde. E quarto: cuidar da própria saúde mental, porque sobrecarga e pressão adoecem. Professor acolhido acolhe melhor.
 
-## 10. Pais (1:15)
+## 10. Escola: agir na hora (1:15)
 
-Pais e responsáveis: escutem primeiro. Escutem sem julgar e sem dizer 'isso passa'. Acreditem: o que ela sente é real, mesmo que pareça pequeno. Registrem os fatos, datas, prints, nomes, isso protege e orienta a escola. Procurem a escola por escrito, com calma e firmeza. E, se o sofrimento persistir, procurem um profissional de saúde mental. Evitem mandar revidar ou confrontar sozinhos a família do agressor.
+Quando acontece, a escola precisa agir na hora e com método. Interromper a situação já é uma mensagem; o silêncio também ensina. Proteger quem sofre sem expor, e nunca punir quem teve coragem de contar. Responsabilizar quem agride com orientação e consequência clara, sem humilhação. E envolver as famílias e o apoio psicológico, porque bullying não se resolve só com punição. E é dever legal: a Lei 13.185, de 2015, obriga a escola a ter medidas de prevenção e combate, e a Lei 14.811, de 2024, passou a tratar bullying e cyberbullying como crime. [Conferir o texto das leis antes da palestra.]
 
-## 11. Escola (1:15)
+## 11. Ambiente: clima que protege (1:30)
 
-Escola e professores: intervenham na hora. Interromper a situação já é uma mensagem, e o silêncio também ensina. Protejam quem sofre sem expor, e nunca punam quem teve coragem de contar. Responsabilizem quem agride com orientação e consequência clara, sem humilhação. Envolvam famílias e apoio psicológico, porque bullying não se resolve só com punição. E lembrem: convivência e empatia se ensinam o ano todo, não só quando acontece.
+Terceira frente: o ambiente. Um clima escolar que protege tem quatro características. Acolhimento e pertencimento: todo aluno precisa se sentir parte. Regras claras, justas e iguais para todos. Atenção aos espaços de risco: recreio, banheiros, corredores, transporte e os grupos de mensagem. E programas de convivência e de habilidades sociais, trabalhados o ano inteiro, não só quando acontece. A pesquisa brasileira sobre psicologia escolar mostra que intervenções em habilidades sociais ajudam. Prevenção contínua reduz danos e permite identificar cedo. Vejam a imagem: agora a pessoa que estava de fora está dentro do grupo.
 
-## 12. Todos nós (0:45)
+## 12. Todos nós (1:00)
 
-E todos nós, que assistimos: quem assiste também decide. Não ria, o riso da plateia alimenta a agressão. Não compartilhe, foto, vídeo e print espalham a dor. Apoie quem sofre: sentar junto e chamar para conversar já muda o dia de alguém. E avise um adulto de confiança. Contar não é dedurar, é proteger. Uma atitude pequena muda o jogo.
+O ambiente também somos nós, e o ambiente também é digital. Quem assiste também decide. Não ria: o riso da plateia alimenta a agressão. Não compartilhe, foto, vídeo e print espalham a dor, mas guarde as provas para denunciar. Apoie quem sofre: sentar junto e chamar para conversar já muda o dia de alguém. E avise um adulto de confiança. Contar não é dedurar, é proteger. Uma atitude pequena muda o jogo.
 
-## 13. Fechamento e ajuda (1:30)
+## 13. Fechamento e ajuda (1:00)
 
-Para fechar, três verbos: escutar, acolher, agir. Bullying se combate com presença, não com silêncio. Se vocês perceberam que uma criança próxima está sofrendo, comecem por uma conversa. Se houver sofrimento intenso, procurem ajuda profissional: o CVV atende pelo 188, 24 horas, de graça; em emergência, SAMU 192; e o Disque 100 recebe denúncias de violência contra crianças e adolescentes. Meu contato está na tela, @dredsonbarroso. Muito obrigado. Fico à disposição para as perguntas.
+Para fechar, três verbos: escutar, acolher, agir. E três frentes: nossos filhos, nossos profissionais e o nosso ambiente. Bullying se combate com presença, não com silêncio. Se houver sofrimento intenso, procurem ajuda profissional: o CVV atende pelo 188, 24 horas, de graça; em emergência, SAMU 192; e o Disque 100 recebe denúncias de violência contra crianças e adolescentes. Meu contato está na tela, @dredsonbarroso. Muito obrigado. Fico à disposição para as perguntas.
 
