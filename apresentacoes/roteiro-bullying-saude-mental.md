@@ -28,7 +28,7 @@ Boa noite a todos, e obrigado pela presença. Eu sou o Dr. Edson Barroso, trabal
 
 ## 2. Gancho (1:00)
 
-Quantas vezes vocês já ouviram, ou até já disseram: 'é só brincadeira'? Pausa. Essa frase é a desculpa que mais protege o bullying. Olhem esta cadeira vazia sob o holofote: é assim que muitas crianças se sentem no recreio, sozinhas, mesmo cercadas de gente, e é assim que muitos profissionais se sentem sem saber o que fazer. Meu objetivo nestes quinze minutos é simples: que cada um aqui saia com uma atitude prática. Porque toda criança tem o direito de ir à escola sem medo.
+Quantas vezes vocês já ouviram, ou até já disseram: 'é só brincadeira'? Pausa. Essa frase é a desculpa que mais protege o bullying. Olhem esta cadeira vazia sob a luz, e a mochila encostada na parede: é assim que muitas crianças se sentem no recreio, sozinhas, mesmo cercadas de gente, e é assim que muitos profissionais se sentem sem saber o que fazer. Meu objetivo nestes quinze minutos é simples: que cada um aqui saia com uma atitude prática. Porque toda criança tem o direito de ir à escola sem medo.
 
 ## 3. O que é e como aparece (1:15)
 
@@ -64,7 +64,7 @@ Quando acontece, a escola precisa agir na hora e com método. Interromper a situ
 
 ## 11. Ambiente: clima que protege (1:30)
 
-Terceira frente: o ambiente. Um clima escolar que protege tem quatro características. Acolhimento e pertencimento: todo aluno precisa se sentir parte. Regras claras, justas e iguais para todos. Atenção aos espaços de risco: recreio, banheiros, corredores, transporte e os grupos de mensagem. E programas de convivência e de habilidades sociais, trabalhados o ano inteiro, não só quando acontece. A pesquisa brasileira sobre psicologia escolar mostra que intervenções em habilidades sociais ajudam. Prevenção contínua reduz danos e permite identificar cedo. Pensem numa muda de planta: ela cresce onde há cuidado, luz e água. A escola também.
+Terceira frente: o ambiente. Um clima escolar que protege tem quatro características. Acolhimento e pertencimento: todo aluno precisa se sentir parte. Regras claras, justas e iguais para todos. Atenção aos espaços de risco: recreio, banheiros, corredores, transporte e os grupos de mensagem. E programas de convivência e de habilidades sociais, trabalhados o ano inteiro, não só quando acontece. A pesquisa brasileira sobre psicologia escolar mostra que intervenções em habilidades sociais ajudam. Prevenção contínua reduz danos e permite identificar cedo. Vejam esta roda de cadeiras: um espaço para conversar, com cores, plantas e luz. É assim que um ambiente acolhe.
 
 ## 12. Todos nós (1:00)
 

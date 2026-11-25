@@ -2,9 +2,11 @@
 
 Código-fonte do deck `../bullying-saude-mental-escola.pptx`.
 
-- `kit.js`: conjunto de objetos em estilo 3D suave (SVG), sem pessoas, nas cores da marca. Reutilizável em outros decks.
-- `build-bullying.js`: monta os 13 slides e o roteiro de fala.
+- `build-bullying.js`: monta os 13 slides e o roteiro de fala, recortando as imagens de `../imagens/` (cenas escolares 3D enviadas pelo usuário).
 - `assets/`: logos recortadas.
+- `kit.js`: objetos em SVG de uma versão anterior (não usado nesta versão).
+
+Os recortes evitam a plaquinha da logo que vem dentro das imagens (canto superior direito); a logo é colocada pequena no canto inferior esquerdo.
 
 ```bash
 npm install pptxgenjs react react-dom react-icons sharp
