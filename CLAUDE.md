@@ -29,6 +29,8 @@ Para atualizar a skill, baixe a versão nova do repositório de origem e substit
   - `logo-horizontal-fundo-escuro.png` e `logo-vertical-fundo-escuro.png`: para fundo escuro (monograma dourado + texto branco).
   - `logo-horizontal-branca.png`: versão toda branca.
 - Paleta da marca: azul-marinho `#0B172B`, dourado `#A67C52`, dourado médio `#C4A07A`, champagne `#E3CFB3`, fundo suave `#F4EDE3`.
-- Estilo: moderno, elegante e minimalista; títulos em serifa (Cambria), texto em Calibri; ilustrações vetoriais próprias nas cores da marca; slides de abertura e fechamento em azul-marinho.
+- Estilo: moderno, vivo e impactante; títulos em serifa (Cambria), texto em Calibri; **fotos reais, atuais e coloridas** (Adobe Stock, coleção gratuita, via conector Adobe) em todos os slides; logo **pequena no canto inferior esquerdo**; abertura e fechamento com foto em tela cheia e escurecimento azul-marinho para o texto.
+- Não usar figuras/ilustrações desenhadas simples: o usuário rejeitou.
+- Imagens: buscar com termos curtos em inglês (consultas longas voltam vazias), filtro `pricing: free`, licenciar com `asset_license_and_download_stock` e baixar o link S3 com `curl`.
 - Instagram: `@dredsonbarroso`.
 - Não usar o Gamma (o usuário não quer) nem ícones genéricos em círculos como visual principal.
